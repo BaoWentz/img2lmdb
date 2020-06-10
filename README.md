@@ -1,2 +1,2 @@
 # img2lmdb
-jupyter notebook
+这里的文件可以将图片数据转换成LMDB形式的数据，方便大规模数据的训练。
